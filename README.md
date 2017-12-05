@@ -2,12 +2,12 @@
 Freecodecamp's React Project for Data Visualization Certification
 
 ## Requirements
-- `http-server` - Some browsers (e.g. Chrome) will fail to load the file unless it’s served via HTTP, which means that you’ll need a server to view your page.
+- Node.js
 
 ## Installation
-`npm install -g http-server` - to install http-server in global mode
+`npm install` - to install dependencies
 
 ## Usage
-`http-server` - to start the server (from project root directory)
+`npm babel-watch` - to transpile jsx to js
 
-`http://localhost:8080` - to open the page
+Open `index.html` in a browser
