@@ -8,6 +8,6 @@ Freecodecamp's React Project for Data Visualization Certification
 `npm install` - to install dependencies
 
 ## Usage
-`npm babel-watch` - to transpile jsx to js
+`npm run babel-watch` - to transpile jsx to js
 
 Open `index.html` in a browser
